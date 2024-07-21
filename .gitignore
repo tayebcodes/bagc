@@ -1,0 +1,43 @@
+# React Native
+react/node_modules/
+react/ios/Pods/
+react/vendor/
+*.log
+*.lock
+*.idea/
+.vscode/
+*.swp
+.DS_Store
+.env
+
+# Xcode
+react/ios/build/
+react/ios/Pods/
+*.xcworkspace
+*.xcuserdata
+!default.xcworkspace
+!default.xcuserdata
+!default.xcodeproj
+
+# Android
+react/android/.gradle/
+react/android/app/build/
+react/android/app/proguard-rules.pro
+react/android/local.properties
+react/android/.idea/
+react/android/.vscode/
+react/android/.DS_Store
+
+# Ruby
+react/Gemfile.lock
+
+# Testing
+react/coverage/
+react/jest/
+
+# VSCode
+react/.vscode/
+
+# Miscellaneous
+*.iml
+*.hprof
